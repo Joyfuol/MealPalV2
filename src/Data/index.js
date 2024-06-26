@@ -181,3 +181,4 @@ export const categories = [
   "Flexitarian",
   "LowCarbs",
 ];
+export default meals
